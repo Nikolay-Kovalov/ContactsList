@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# contact_list_react_project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

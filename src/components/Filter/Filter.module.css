@@ -1,0 +1,39 @@
+.label {
+    position: fixed;
+    top: 360px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    font-size: 20px;
+    margin-top: 32px;
+}
+
+.input {
+
+    width: 520px;
+    height: 44px;
+    caret-color: #333;
+    border: 1px solid rgba(51, 51, 51, 0.336);
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-size: 24px;
+    transition: all 100ms linear;
+}
+
+.inputs_wrapper {
+
+    margin-top: 132px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.input:focus-within {
+    outline: none;
+    box-shadow: 0 0 24px 2px rgba(51, 51, 51, 0.38);
+    border: none;
+}
+
+span {
+    margin-left: 20px;
+}

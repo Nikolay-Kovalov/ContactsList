@@ -1,0 +1,21 @@
+.contact_list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-right: 24px;
+    padding-top: 8px;
+    padding-bottom: 12px;
+    gap: 20px;
+    width: 540px;
+    margin-top: 80px;
+    /* height: 800px;
+    overflow-y: scroll; */
+
+
+
+}
+
+.not_found {
+    margin-top: 80px;
+    font-size: 24px;
+}
